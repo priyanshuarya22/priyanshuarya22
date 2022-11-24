@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyanshuarya22
 - 📫 Email:- priyanshuarya22@gmail.com
 
-I know Python (Django), Java (awt & Swing), C & C++, MySQL, Android (Java, Kotlin)
+I am IT undergrad from IIIT Sonepat.
 Contact me if need help :-)
 
 <!---
